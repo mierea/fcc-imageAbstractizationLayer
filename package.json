@@ -1,0 +1,19 @@
+{
+  "name": "imageabstractizationlayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bing.search": "^1.0.1",
+    "express": "^4.14.0",
+    "google-images": "^2.0.0",
+    "google-search": "0.0.4",
+    "moment": "^2.17.1",
+    "nedb": "^1.8.0"
+  }
+}
